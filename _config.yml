@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "gamzegul2024@u.northwestern.edu"
+      url:   #"gamzegul2024@u.northwestern.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -134,7 +134,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/gamzegul94"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -150,8 +150,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
-
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.linkedin.com/in/gamzegul/"
 # Reading Files
 include:
   - .htaccess
