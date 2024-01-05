@@ -88,6 +88,14 @@
         </li>
       {% endif %}
 
+      {% if author.google_scholar %}
+        <li>
+          <a href="https://scholar.google.com/citations?user={{ author.google_scholar }}">
+            <i class="fa fa-fw fa-google"true"></i> Google Scholar
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.xing %}
         <li>
           <a href="https://www.xing.com/profile/{{ author.xing }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
