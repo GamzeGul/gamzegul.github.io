@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/websiteavatar.jpg"
   bio              : "Ph.D. Candidate"
   location         : "Northwestern University"
-  email            : ""
+  email            : #""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
