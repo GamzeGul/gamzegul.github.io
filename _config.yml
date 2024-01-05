@@ -151,7 +151,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/gamzegul/"
 # Reading Files
 include:
