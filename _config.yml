@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Gamze Gul"
   avatar           : "images/websiteavatar.jpg"
-  bio              : #"I am a Ph.D. candidate in Applied Physics at Northwestern University.”
-  location         : #"Northwestern University"
+  bio              : "I am a Ph.D. candidate in Applied Physics at Northwestern University.”
+  location         : "Northwestern University"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=0zYFVvwAAAAJ&hl=en&oi=ao"
