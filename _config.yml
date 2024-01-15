@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+n# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Gamze Gul"
   avatar           : "websiteavatar.jpg"
-  bio              : "I am a Ph.D. candidate in Applied Physics at Northwestern University."
-  location         : "Northwestern University"
+  bio              : "Ph.D. Candidate in Applied Physics at Northwestern University."
+  location         : "Evanston, IL"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0zYFVvwAAAAJ&hl=en&oi=ao"
