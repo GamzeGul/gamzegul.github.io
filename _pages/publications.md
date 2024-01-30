@@ -9,7 +9,7 @@ author_profile: true
 2024
 ======
 * S. J. B. Yoo, S. K. Singh, M. B. On,  <b>G. Gül</b>, G. S. Kanter, R. Proietti, and P. Kumar. Quantum Wrapper Networking. IEEE Communications Magazine. January 2024.
-      [DOI](https://ieeexplore.ieee.org/document/10384627)
+ [DOI](https://ieeexplore.ieee.org/document/10384627)
 
 2023
 ======
