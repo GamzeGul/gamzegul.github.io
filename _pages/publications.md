@@ -8,13 +8,13 @@ author_profile: true
 
 2024
 ======
-* S. J. B. Yoo, S. K. Singh, M. B. On, <b>G. Gul</b>, G. S. Kanter, R. Proietti, and P. Kumar. Quantum Wrapper Networking. IEEE Communications Magazine. January 2024.  
-    [DOI](https://ieeexplore.ieee.org/document/10384627)
+* S. J. B. Yoo, S. K. Singh, M. B. On,  <b>G. Gül</b>, G. S. Kanter, R. Proietti, and P. Kumar. Quantum Wrapper Networking. IEEE Communications Magazine. January 2024.
+      [DOI](https://ieeexplore.ieee.org/document/10384627)
 
 2023
 ======
 * <b>G. Gül</b>, M. B. On, S. K. Singh, R. Proietti, G. S. Kanter, S. J. B. Yoo, and P. Kumar. Designing Classical Header Bits for Quantum Wrapper Networking with O-band Quantum Signal. Frontiers in Optics, Laser Science (FiO+LS). October 2023.
-    [DOI](https://opg.optica.org/abstract.cfm?URI=FiO-2023-JTu5A.41)
+      [DOI](https://opg.optica.org/abstract.cfm?URI=FiO-2023-JTu5A.41)
 
 * K. F. Lee, <b>G. Gül</b>, Z. Jim, and P. Kumar. Fiber Loop Quantum Buffer for Photonic Qubits. September 2023. 
     [arXiv](https://arxiv.org/abs/2309.07987)
