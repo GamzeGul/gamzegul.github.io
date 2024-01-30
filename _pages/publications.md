@@ -24,9 +24,7 @@ author_profile: true
 
 2022
 ======
-* <b>G. Gül</b>, K. Abdelsalam, S. Fathpour, K.F. Lee, G.S. Kanter, and P Kumar. Effect of Periodic Poling on Self-phase Modulation in Thin-film Lithium Niobate Waveguides. Frontiers in Optics, Laser Science (FiO+LS). October 2022.
- 
-    [DOI](https://opg.optica.org/abstract.cfm?uri=FiO-2022-FW7E.5)
+* <b>G. Gül</b>, K. Abdelsalam, S. Fathpour, K.F. Lee, G.S. Kanter, and P Kumar. Effect of Periodic Poling on Self-phase Modulation in Thin-film Lithium Niobate Waveguides. Frontiers in Optics, Laser Science (FiO+LS). October 2022.[DOI](https://opg.optica.org/abstract.cfm?uri=FiO-2022-FW7E.5)
 
 * <b>G. Gül</b>, K. Abdelsalam, S. Fathpour, K.F. Lee, G.S. Kanter, and P Kumar. Self-phase modulation in periodically-poled thin-film lithium niobate waveguides. European Physical Journal Web of Conferences (EUROPHOTON). August 2022.
     [DOI](https://web.archive.org/web/20221023201300id_/https://www.epj-conferences.org/articles/epjconf/pdf/2022/11/epjconf_europhoton2022_02022.pdf)
