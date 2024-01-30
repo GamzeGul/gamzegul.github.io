@@ -12,11 +12,11 @@ author_profile: true
   
 [DOI](https://ieeexplore.ieee.org/document/10384627)
 
-2024
+2023
 ======
-* S. J. B. Yoo, S. K. Singh, M. B. On, G. Gul, G. S. Kanter, R. Proietti and P. Kumar. Quantum Wrapper Networking. IEEE Communications Magazine. January 2024.
+* G. Gul, M. B. On, S. K. Singh, R. Proietti, G. S. Kanter, S. J. B. Yoo,and P. Kumar. Designing Classical Header Bits for Quantum Wrapper Networking with O-band Quantum Signal. FiO+LS. January 2024.
   
-[DOI](https://ieeexplore.ieee.org/document/10384627)
+[DOI]((https://opg.optica.org/abstract.cfm?URI=FiO-2023-JTu5A.41)
 
 * S. J. B. Yoo, S. K. Singh, M. B. On, G. Gul, G. S. Kanter, R. Proietti and P. Kumar. Quantum Wrapper Networking. IEEE Communications Magazine. January 2024.
   
