@@ -31,7 +31,7 @@ author_profile: true
 
 2021
 ======
-* M. Gori, <b>G. Gül</b>, P Kumar, and P. Kurian. Effect of Periodic Poling on Self-phase Modulation in Thin-film Lithium Niobate Waveguides. APS March Meeting Abstracts. March 2021. 
+* M. Gori, <b>G. Gül</b>, P Kumar, and P. Kurian. Theory of four-wave mixing for biomolecular systems: Toward transduction of quantum information from fluorescent protein complexes to photonic readouts. APS March Meeting Abstracts. March 2021. 
     [Abstract](https://ui.adsabs.harvard.edu/abs/2021APS..MARS28012G/abstract)
 
 2017
