@@ -9,3 +9,5 @@ redirect_from:
 
 
 <p style="text-decoration:underline;"><a href="/files/My_CV.pdf">Click here for my CV in pdf format.</a></p>
+
+Last updated: September 7, 2025
