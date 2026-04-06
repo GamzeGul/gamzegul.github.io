@@ -96,3 +96,10 @@ $(document).ready(function(){
   });
 
 });
+
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll('.author__urls a').forEach(link => {
+    link.setAttribute("target", "_blank");
+    link.setAttribute("rel", "noopener noreferrer");
+  });
+});
