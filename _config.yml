@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gamze Gul"
+title                    : "Gamze Gül"
 title_separator          : "-"
-name                     : &name "Gamze Gul"
+name                     : &name "Gamze Gül"
 description              : &description "personal description"
 url                      : https://gamzegul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gamze Gul"
+  name             : "Gamze Gül"
   avatar           : "websiteavatar.jpg"
   bio              : "Ph.D. Candidate in Applied Physics at Northwestern University."
   location         : "Evanston, IL"
