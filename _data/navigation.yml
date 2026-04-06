@@ -1,13 +1,11 @@
 main:
-  - title: "About"
-    url: "#about"
   - title: "Research"
-    url: "#research"
-  - title: "News"
-    url: "#news"
+    url: /research/
   - title: "Publications"
-    url: "#publications"
+    url: /publications/
   - title: "Teaching"
-    url: "#teaching"
+    url: /teaching/
+  - title: "News"
+    url: /news/
   - title: "CV"
-    url: "#cv"
+    url: /cv/
