@@ -86,7 +86,7 @@ author:
   location         : "Evanston, IL"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=0zYFVvwAAAAJ&hl=en&oi=ao"
+  #googlescholar    : "https://scholar.google.com/citations?user=0zYFVvwAAAAJ&hl=en&oi=ao"
   email            : "gamzegul2024@u.northwestern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -116,7 +116,18 @@ author:
   youtube          :
   wikipedia        :
 
+ links:
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=0zYFVvwAAAAJ&hl=en&oi=ao"
 
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/gamzegul"
+
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/gamzegul94"
 # Reading Files
 include:
   - .htaccess
