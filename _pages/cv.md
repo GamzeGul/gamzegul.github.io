@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p>
-  <a href="/files/My_CV.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://gamzegul.github.io/files/My_CV.pdf" target="_blank">
     Click here for my CV in PDF format.
   </a>
 </p>
