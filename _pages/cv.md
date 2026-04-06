@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
@@ -7,7 +7,10 @@ redirect_from:
   - /resume
 ---
 
+<p>
+  <a href="/files/My_CV.pdf" target="_blank" rel="noopener noreferrer">
+    Click here for my CV in PDF format.
+  </a>
+</p>
 
-<p style="text-decoration:underline;"><a href="/files/My_CV.pdf">Click here for my CV in pdf format.</a></p>
-
-Last updated: September 12, 2025
+<p><em>Last updated: September 12, 2025</em></p>
