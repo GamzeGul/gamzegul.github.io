@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Contact"
 permalink: /contact/
 author_profile: true
@@ -7,10 +7,12 @@ author_profile: true
 
 ## Contact
 
-📧 Email: [gamze.gul@northwestern.edu](mailto:gamze.gul@northwestern.edu)
+**Email:** [gamze.gul@northwestern.edu](mailto:gamze.gul@northwestern.edu)
 
-📍 Office: Technological Institute, Northwestern University  
-2145 Sheridan Rd, Evanston, IL  
+**Office:**  
+Technological Institute, Northwestern University  
+2145 Sheridan Rd  
+Evanston, IL  
 
 ---
 
