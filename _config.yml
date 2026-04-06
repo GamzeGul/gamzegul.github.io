@@ -115,8 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
- links:
+  links:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=0zYFVvwAAAAJ&hl=en&oi=ao"
