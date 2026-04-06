@@ -29,9 +29,8 @@ I got my B.S. degree in electrical and electronics engineering at Bilkent Univer
 ## News
 {: #news }
 
-- **Apr 2026** — Submitted paper on polarization control in quantum networks  
-- **Mar 2026** — Started postdoctoral research at Northwestern University  
-- **(Add more updates here as you go)**
+- **December 2026** — Started postdoctoral research at Northwestern University  
+- **December 2026** — Received PhD from Applied Physics at Northwestern University 
 
 ---
 
