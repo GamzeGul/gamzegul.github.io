@@ -86,7 +86,7 @@ author:
   location         : "Evanston, IL"
   employer         :
   pubmed           : 
-  #googlescholar    : "https://scholar.google.com/citations?user=0zYFVvwAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=0zYFVvwAAAAJ&hl=en&oi=ao"
   email            : "gamzegul@northwestern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  #twitter          : "gamzegul94"
+  twitter          : "gamzegul94"
   vine             :
   weibo            :
   xing             :
