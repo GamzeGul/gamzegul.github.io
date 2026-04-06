@@ -19,13 +19,6 @@ I got my B.S. degree in electrical and electronics engineering at Bilkent Univer
 
 ---
 
-## Research
-{: #research }
-
-(Add a short paragraph about your research projects here — we can refine this later.)
-
----
-
 ## News
 {: #news }
 
@@ -37,4 +30,4 @@ I got my B.S. degree in electrical and electronics engineering at Bilkent Univer
 ## Publications
 {: #publications }
 
-(You can either summarize here OR link to your full publications page.)
+
