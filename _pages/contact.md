@@ -5,8 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-## Contact
-
 **Email:** [gamze.gul@northwestern.edu](mailto:gamze.gul@northwestern.edu)
 
 **Office:**  
